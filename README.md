@@ -8,13 +8,13 @@ SPECTER is a powerful tool designed for scientific documents, leveraging citatio
 
 ## Key Areas of Work
 
-1. AG News Text Classification Task.py: This script is utilized for training and evaluating SPECTER on the AG News dataset, a collection of news articles from over 2,000 news sources, to investigate SPECTER's performance and generalizability in handling non-scientific texts.
+1. AG News + Text Classification: This script is utilized for training and evaluating SPECTER on the AG News dataset, a collection of news articles from over 2,000 news sources, to investigate SPECTER's performance and generalizability in handling non-scientific texts.
 
-2. CORD 19 Baseline: This script contains the baseline implementation of the SPECTER model on the CORD-19 (COVID-19 Open Research Dataset) corpus. It represents the starting point from which the enhancements and extensions to the model are made.
+2. CORD19_Baseline: This script contains the baseline implementation of the SPECTER model on the CORD-19 (COVID-19 Open Research Dataset) corpus. It represents the starting point from which the enhancements and extensions to the model are made.
 
-3. CORD 19: full_text: This script extends the baseline SPECTER model to include additional data from the full text of the scientific papers in the CORD-19 corpus, aiming to improve the quality of the generated document embeddings.
+3. CORD19 + Full_text: This script extends the baseline SPECTER model to include additional data from the full text of the scientific papers in the CORD-19 corpus, aiming to improve the quality of the generated document embeddings.
 
-4. CORD19: date: This script includes the implementation of the temporal paper classification strategy. The idea is to assign higher weights to more recent papers in the document embedding generation process, providing a temporal dimension to the representations.
+4. CORD19 + date: This script includes the implementation of the temporal paper classification strategy. The idea is to assign higher weights to more recent papers in the document embedding generation process, providing a temporal dimension to the representations.
 
 You can run each script independently 
 
