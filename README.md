@@ -1,4 +1,4 @@
-# Enhancing SPECTER with Some Extensions
+# Investigating the Versatility of SPECTER: Data Integration, Temporal Classification, and Domain Transferability
 
 Welcome to our GitHub repository, where we aim to enhance the SPECTER model with several extensions. Our work focuses on incorporating additional data sources, performing temporal paper classification, and exploring the use of SPECTER on other types of texts.
 
