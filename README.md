@@ -16,7 +16,7 @@ SPECTER is a powerful tool designed for scientific documents, leveraging citatio
 
 4. CORD19: date: This script includes the implementation of the temporal paper classification strategy. The idea is to assign higher weights to more recent papers in the document embedding generation process, providing a temporal dimension to the representations.
 
-You can run each script independently using the Python command
+You can run each script independently 
 
 ## Contributing
 
