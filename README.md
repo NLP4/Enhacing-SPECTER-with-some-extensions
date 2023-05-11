@@ -14,7 +14,7 @@ SPECTER is a powerful tool designed for scientific documents, leveraging citatio
 
 3. CORD19 + Full_text: This script extends the baseline SPECTER model to include additional data from the full text of the scientific papers in the CORD-19 corpus, aiming to improve the quality of the generated document embeddings.
 
-4. CORD19 + date: This script includes the implementation of the temporal paper classification strategy. The idea is to assign higher weights to more recent papers in the document embedding generation process, providing a temporal dimension to the representations.
+4. CORD19 + Date: This script includes the implementation of the temporal paper classification strategy. The idea is to assign higher weights to more recent papers in the document embedding generation process, providing a temporal dimension to the representations.
 
 You can run each script independently 
 
