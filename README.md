@@ -8,11 +8,15 @@ SPECTER is a powerful tool designed for scientific documents, leveraging citatio
 
 ## Key Areas of Work
 
-1. **Incorporating Additional Data Sources:** We expanded SPECTER by incorporating other data sources to produce rich document embeddings.
+1. AG News Text Classification Task.py: This script is utilized for training and evaluating SPECTER on the AG News dataset, a collection of news articles from over 2,000 news sources, to investigate SPECTER's performance and generalizability in handling non-scientific texts.
 
-2. **Temporal Paper Classification:** We introduced temporal weights in the paper classification process to enhance the accuracy of the classification task.
+2. CORD 19 Baseline: This script contains the baseline implementation of the SPECTER model on the CORD-19 (COVID-19 Open Research Dataset) corpus. It represents the starting point from which the enhancements and extensions to the model are made.
 
-3. **Exploring the Use of SPECTER on Other Types of Texts:** We examined the application of SPECTER on non-scientific texts, demonstrating its potential for generalization across diverse text classification tasks.
+3. CORD 19: full_text: This script extends the baseline SPECTER model to include additional data from the full text of the scientific papers in the CORD-19 corpus, aiming to improve the quality of the generated document embeddings.
+
+4. CORD19: date: This script includes the implementation of the temporal paper classification strategy. The idea is to assign higher weights to more recent papers in the document embedding generation process, providing a temporal dimension to the representations.
+
+You can run each script independently using the Python command
 
 ## Contributing
 
