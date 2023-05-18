@@ -20,8 +20,4 @@ You can run each script independently
 
 ## Contributing
 
-We welcome contributions to this project. If you have a feature request, bug report, or proposal for improvement, please open an issue. If you wish to contribute code, please open a pull request.
-
-## Contact
-
-If you have any questions or feedback, please feel free to contact us. You can open an issue or send us an email.
+We welcome contributions to this project. If you have a feature request, bug report, proposal for improvement, or if you have any questions or feedback, please feel free to contact us.
